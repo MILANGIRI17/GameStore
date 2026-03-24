@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/GameStore.Api/obj/Debug/net10.0/GameStore.Api.AssemblyInfo.cs
+/GameStore.Api/obj/Debug/net10.0/GameStore.Api.AssemblyInfoInputs.cache
+/GameStore.Api/obj/GameStore.Api.csproj.nuget.dgspec.json
+/GameStore.Api/obj/GameStore.Api.csproj.nuget.g.props
+/GameStore.Api/obj/project.assets.json
+/GameStore.Api/obj/project.nuget.cache
