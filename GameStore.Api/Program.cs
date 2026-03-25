@@ -11,8 +11,6 @@ List<GameDto> games = [
     new(3, "Astro Bot", "Platformer", 59.99m, new DateOnly(2024, 9, 6)),
 ];
 
-
-
 //GET /games
 app.MapGet("/games", () => games);
 
