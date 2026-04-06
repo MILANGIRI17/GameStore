@@ -11,6 +11,7 @@ builder.Services.AddValidation();
 
 var app = builder.Build();
 app.MapGamesEndpoints();
+app.MapGenresEndpoints();
 //Migrating database on application start.
 app.MigrateDb();
 app.Run();
